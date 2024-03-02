@@ -7,58 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+you can download my CV [here](../CV.pdf) (updated: March 2023)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in Mechatronics Engineering, McMaster University, 2025(expected)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant (Sept. 2023 - now)
+  * The Chinese University of Hong Kong (ShenZhen)
+  * Focusing on optimization methods, especailly fractional programming, and the application in machine learning and wireless communication.
+  * Supervisor: Professor Kaiming Shen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineer Intern (May. 2022 - May. 2023)
+  * Magna Electrnics
+  * Developing image procewssing algorithm, and maintain the Advanced Driver Assistance System according to customers' feedback.
+  * Supervisor: Xai Phan
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Assisstant
+  * McMaster University
+  * Leading 10 lab and tutorial sessions related to algorithms and coding for embedded systems.
+  * Supervisor: Nicholas CC Moore
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Competitions
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Silver Medel at American Express - Default Prediction from Kaggle, ranking 189/4874
+
+Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Dean's honor list (2019 to 2022)
