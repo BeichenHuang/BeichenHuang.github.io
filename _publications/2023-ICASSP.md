@@ -1,7 +1,7 @@
 ---
 title: "Aerial-IRS-Assisted Load Balancing in Downlink Networks"
 collection: Conference
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://ieeexplore.ieee.org/abstract/document/10446304
 venue: 'ICASSP'
 ---
 
