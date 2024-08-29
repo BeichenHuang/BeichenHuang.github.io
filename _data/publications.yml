@@ -1,7 +1,7 @@
 main:
 
   - title: Aerial-IRS-Assisted Load Balancing In Downlink Networks
-    authors: Shuyi Ren; <strong>Beichen Huang*</strong>; Xiaoyang Li; Kaiming Shen* (*Corresponding authors)
+    authors: Shuyi Ren; <strong>Beichen Huang</strong>; Xiaoyang Li; Kaiming Shen* (*Corresponding authors)
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10446304
