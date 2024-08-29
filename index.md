@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello and welcome! I'm Beichen Huang, a senior student at McMaster University, majoring in Mechatronics Engineering. My current research interests lie in affordable and efficient LLM, through mathematical optimization and machine learning system.
 
-## Research Interests
+I had a wonderful research visit at [the Chinese Unviersity of Hong Kong (ShenZhen)](https://www.cuhk.edu.cn/en), advised by [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html), working on optimization and its application in machine learning and wireless communication. I am also fortunate to be supervised by [Prof. Minjia Zhang](https://minjiazhang.github.io/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), focusing on MoE model quantization.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[April. 2024]** Our paper about Aerial_IRS is accepted to ICASSP 2024.
 
 {% include_relative _includes/publications.md %}
 
