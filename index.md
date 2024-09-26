@@ -11,7 +11,7 @@ I had a wonderful research visit at [the Chinese Unviersity of Hong Kong (ShenZ
 
 
 ## News
-
+- **[Sept. 2024]** Our paper about Fractional Programming for Clustering is accepted to NeurIPS 2024.
 - **[April. 2024]** Our paper about Aerial_IRS is accepted to ICASSP 2024.
 
 {% include_relative _includes/publications.md %}
