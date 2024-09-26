@@ -1,7 +1,7 @@
 main:
 
   - title: Aerial-IRS-Assisted Load Balancing In Downlink Networks
-    authors: Shuyi Ren; <strong>Beichen Huang</strong>; Xiaoyang Li; Kaiming Shen* (*Corresponding authors)
+    authors: Shuyi Ren, <strong>Beichen Huang</strong>, Xiaoyang Li, Kaiming Shen
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/document/10446304
@@ -9,6 +9,18 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     #image: ./assets/img/teaser_example_2.png
     #notes: Early Accept
+
+  - title: "Multidimensional Fractional Programming for Normalized Cuts"
+    authors: Yannan Chen*, <strong>Beichen Huang*</strong>, Licheng Zhao, Kaiming Shen (*Equal Contributors)
+    conference_short: NeurIPS
+    conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://openreview.net/forum?id=3G8sjUZqO3&noteId=3G8sjUZqO3
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
