@@ -3,7 +3,7 @@ main:
     authors: Yannan Chen*, <strong>Beichen Huang*</strong>, Licheng Zhao, Kaiming Shen (*Equal Contributors)
     conference_short: NeurIPS
     conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://openreview.net/forum?id=3G8sjUZqO3&noteId=3G8sjUZqO3
+    # pdf: https://openreview.net/forum?id=3G8sjUZqO3&noteId=3G8sjUZqO3
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
