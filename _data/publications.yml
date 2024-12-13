@@ -1,6 +1,6 @@
 main:
 
-- title: "MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators"
+  - title: "MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators"
     authors: <strong>Beichen Huang*</strong>, Yueming Yuan*, Zelei Shao*, Minjia Zhang (*Equal Contributors)
     # conference_short: NeurIPS
     # conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
