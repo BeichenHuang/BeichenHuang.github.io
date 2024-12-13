@@ -8,9 +8,10 @@ Hello and welcome! I'm Beichen Huang, a senior student at McMaster University, 
 
 I had a wonderful research visit at [the Chinese Unviersity of Hong Kong (ShenZhen)](https://www.cuhk.edu.cn/en) from Sept. 2023 to May 2024, advised by [Prof. Kaiming Shen](https://kaimingshen.github.io/index.html), working on optimization and its application in machine learning and wireless communication. I am also fortunate to be supervised by [Prof. Minjia Zhang](https://minjiazhang.github.io/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) from March 2024, focusing on MoE model quantization.
 
-
+I am currently looking for PhD opening in Fall 2025.
 
 ## News
+- **[Nov. 2024]** A preprint about an efficient 3-bit quantization system for MoE is ready.
 - **[Sept. 2024]** Our paper about Fractional Programming for Clustering is accepted to NeurIPS 2024.
 - **[April. 2024]** Our paper about Aerial_IRS is accepted to ICASSP 2024.
 
