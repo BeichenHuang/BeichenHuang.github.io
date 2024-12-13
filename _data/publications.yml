@@ -1,9 +1,17 @@
 main:
+
+- title: "MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators"
+    authors: <strong>Beichen Huang*</strong>, Yueming Yuan*, Zelei Shao*, Minjia Zhang (*Equal Contributors)
+    # conference_short: NeurIPS
+    # conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: ./assets/file/MiLo_effective_MoE_quantization.pdf
+    notes: preprint
+    
   - title: "Multidimensional Fractional Programming for Normalized Cuts"
     authors: Yannan Chen*, <strong>Beichen Huang*</strong>, Licheng Zhao, Kaiming Shen (*Equal Contributors)
     conference_short: NeurIPS
     conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: ./assets/file/NeurIPS_FP_preprint.pdf
+    pdf: https://openreview.net/pdf?id=3G8sjUZqO3
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
