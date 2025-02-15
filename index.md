@@ -11,6 +11,7 @@ I had a wonderful research visit at [the Chinese Unviersity of Hong Kong (ShenZ
 I am currently looking for PhD opening in Fall 2025, and summer research intern in 2025.
 
 ## News
+- **[Feb. 2025]** Our work **MiLo** is accepted to MLSys 2025. See you in Santa Clara! 
 - **[Nov. 2024]** A preprint about an efficient 3-bit quantization system for MoE is ready.
 - **[Sept. 2024]** Our paper about Fractional Programming for Clustering is accepted to NeurIPS 2024.
 - **[April. 2024]** Our paper about Aerial_IRS is accepted to ICASSP 2024.
