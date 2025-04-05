@@ -2,10 +2,10 @@ main:
 
   - title: "MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators"
     authors: <strong>Beichen Huang*</strong>, Yueming Yuan*, Zelei Shao*, Minjia Zhang (*Equal Contributors)
-    # conference_short: NeurIPS
-    # conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: ./assets/file/MiLo_effective_MoE_quantization.pdf
-    notes: preprint
+    conference_short: MLSys
+    conference: The Eighth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2504.02658
+    # notes: preprint
     
   - title: "Multidimensional Fractional Programming for Normalized Cuts"
     authors: Yannan Chen*, <strong>Beichen Huang*</strong>, Licheng Zhao, Kaiming Shen (*Equal Contributors)
