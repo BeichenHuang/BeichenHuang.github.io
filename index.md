@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 
 Hello and welcome! I'm Beichen Huang, a first-year MSCS student at UIUC, supervised by [Prof. Minjia Zhang](https://minjiazhang.github.io/) at [SSAIL](https://supercomputing-system-ai-lab.github.io/). I am working on LLM inference, and my current research interests are:
-- efficient test time scaling
-- model compression and quantization
+- Efficient test time scaling
+- Model compression and quantization
 
 I am currently looking for an intern position for summer 2026.
 
