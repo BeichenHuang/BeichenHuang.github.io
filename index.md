@@ -11,6 +11,7 @@ Hello and welcome! I'm Beichen Huang, a first-year MSCS student at UIUC, supervi
 I am currently looking for an intern position for summer 2026.
 
 ## News
+- **[Jan. 2026]** A preprint about the efficient parallel thinking is ready at [PDF](https://arxiv.org/pdf/2601.09093).
 - **[Mar. 2025]** Serve as AE reviewer for MLSys 2025.
 - **[Feb. 2025]** Our work **MiLo** is accepted to MLSys 2025. See you in Santa Clara! 
 - **[Nov. 2024]** A preprint about an efficient 3-bit quantization system for MoE is ready.
